@@ -2,7 +2,7 @@
   "name": "zero-to-tech",
   "version": "1.0.0",
   "devDependencies": {
-    "@vitejs/plugin-react": "^6.0.4",
+    "@vitejs/plugin-react": "^6.0.5",
     "vite": "^8.1.5"
   },
   "scripts": {
